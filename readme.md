@@ -87,5 +87,5 @@ config.toml - manager account that is used to login to the admin interface
 Username="kent"
 Password="something secret"
 PortalURL="https://guestportal.company.se:8443/"
-Protal="722897f6-a8f6-420a-bf02-3c1f067c8e74"
+Portal="722897f6-a8f6-420a-bf02-3c1f067c8e74"
 ```
